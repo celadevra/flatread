@@ -12,7 +12,7 @@ Module: common.css
 
 /* ===== GENERAL (redefinition HTML tag) ===== */
 html {
-	font-family: 'Lora', serif;
+    font-family: monospace;
 	margin: 0;
 	color: #444;
 	padding: 0
