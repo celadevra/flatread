@@ -12,14 +12,14 @@ Module: common.css
 
 /* ===== GENERAL (redefinition HTML tag) ===== */
 html {
-    font-family: monospace;
+    font-family: 'IBM Plex Mono', monospace;
 	margin: 0;
 	color: #444;
 	padding: 0
 }
 
 body {
-	font-size: 1.4em;
+	font-size: 1.2em;
 	padding: 0;
 	text-align:center;
 }
@@ -39,14 +39,15 @@ blockquote {
 }
 
 pre, code {
-	font-family: 'Lora', serif;
-	font-size: 90%;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 90%;
+    color: #ddd;
 }
 
 pre {
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #ccc;
-	background-color: #ddd;
+	background-color: #000;
 
 	overflow: auto;
 	width: 90%;
