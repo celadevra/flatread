@@ -91,7 +91,7 @@ input:hover, input:focus, textarea:hover, textarea:focus {
 
 textarea {
 	font-size: 100%;
-	font-family: 'Lora', serif;
+	font-family: 'IBM Plex Mono', monospace;
 	width: 99%;
 	margin-top: .1em;
 	margin-bottom: 1em
